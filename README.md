@@ -6,13 +6,14 @@ From a Swift language group into a Community of Mobile Developers of India 🇮�
 
 We aim to provide a platform for sharing knowledge. ✊
 
-We want to build a community where Devs working on different Mobile platforms like iOS, Android, Flutter, React Native, etc can come together, learn what's happening in their own & other domains & morph into a better & more learned versions of themselves. 🤝
+We want to build a community where Devs working on different Mobile platforms like iOS, Android, Flutter, React Native, etc can come together, learn what's happening in their own & other domains & morph into better & more learned versions of themselves. 🤝
 
-We are planning a in-person Meetup in month of August, 2023 😍
+We are planning an in-person Meetup in the month of August, 2023 😍
 
 So stay tuned for more. 🙌
 
 Twitter: https://twitter.com/mobiledevsindia
+
 Discord: https://discord.gg/vetnUM8jEt
 
 <!--
