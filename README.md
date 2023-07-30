@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hello @everyone 👋
-
 We have morphed! ♻️
 
 From a Swift language group into a Community of Mobile Developers of India 🇮🇳 
