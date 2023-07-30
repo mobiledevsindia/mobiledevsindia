@@ -12,9 +12,9 @@ We are planning an in-person Meetup in the month of August, 2023 😍
 
 So stay tuned for more. 🙌
 
-Twitter: https://twitter.com/mobiledevsindia
-
 Discord: https://discord.gg/vetnUM8jEt
+
+Twitter: https://twitter.com/mobiledevsindia
 
 <!--
 **mobiledevsindia/mobiledevsindia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
